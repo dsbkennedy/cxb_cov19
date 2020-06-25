@@ -37,6 +37,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     identifier = "dashboard"
     url = "/dashboard/"
   [[menu.main]]
+    name = "Situation Reports"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "sitrep"
+    url = "/sitrep/"  
+  [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
     weight = 3
