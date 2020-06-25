@@ -6,7 +6,6 @@
     <description>Recent content in Posts on Cox&#39;s Bazar COVID-19 Response</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cxb-cov19.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +13,7 @@
     <item>
       <title>Dashboards</title>
       <link>https://cxb-cov19.netlify.app/post/dashboards-launch/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cxb-cov19.netlify.app/post/dashboards-launch/</guid>
       <description>DashboardsFor the COVID-19 response, there are several dashboards which can be used to monitor the epidemiology and healthcare facilitiy capacity in Cox’s Bazar
@@ -29,7 +28,7 @@ EpidemiologyCOVID-19 Epidemiological information can be found here
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cxb-cov19.netlify.app/post/situation-report/</guid>
-      <description>Situation reports for Bangladeshhttps://www.who.int/bangladesh/emergencies/coronavirus-disease-(covid-19)-update/coronavirus-disease-(covid-2019)-bangladesh-situation-reports
+      <description>Situation reports for BangladeshWHO Bangladesh
 </description>
     </item>
     
