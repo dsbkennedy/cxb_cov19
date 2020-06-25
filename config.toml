@@ -32,7 +32,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/"
   [[menu.main]]
     name = "Dashboards"
-    pre = "<i class='fa fa-list fa-fw'></i>"
+    pre = "<i class='fa fa-columns fa-fw'></i>"
     weight = 2
     identifier = "dashboard"
     url = "/dashboard/"
@@ -41,7 +41,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 2
     identifier = "sitrep"
-    url = "/sitrep/"  
+    url = "/sitrep/" 
+  [[menu.main]]
+    name = "Partners"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "partner"
+    url = "/partner/"  
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
@@ -55,7 +61,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/contact/"
 
 [params.logo]
-    url = "who_logo.png"
+    url = "logo.png"
     width = 50
     height = 50
     alt = "Logo"

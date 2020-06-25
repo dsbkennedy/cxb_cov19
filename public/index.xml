@@ -6,6 +6,7 @@
     <description>Recent content on Cox&#39;s Bazar COVID-19 Response</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cxb-cov19.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,29 +14,16 @@
     <item>
       <title>About</title>
       <link>https://cxb-cov19.netlify.app/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cxb-cov19.netlify.app/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://cxb-cov19.netlify.app/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cxb-cov19.netlify.app/contact/</guid>
-      <description>If you notice an error or have a question contact &amp;mdash;&amp;ndash;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Dashboards</title>
       <link>https://cxb-cov19.netlify.app/post/dashboards-launch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cxb-cov19.netlify.app/post/dashboards-launch/</guid>
       <description>DashboardsFor the COVID-19 response, there are several dashboards which can be used to monitor the epidemiology and healthcare facilitiy capacity in Cox’s Bazar
@@ -47,11 +35,20 @@ EpidemiologyCOVID-19 Epidemiological information can be found here
     <item>
       <title>Situation Report</title>
       <link>https://cxb-cov19.netlify.app/post/situation-report/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cxb-cov19.netlify.app/post/situation-report/</guid>
       <description>Situation reports for BangladeshWHO Bangladesh
 </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://cxb-cov19.netlify.app/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cxb-cov19.netlify.app/contact/</guid>
+      <description>If you notice an error or have a question contact &amp;mdash;&amp;ndash;</description>
     </item>
     
   </channel>

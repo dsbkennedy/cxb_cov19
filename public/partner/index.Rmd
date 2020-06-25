@@ -1,0 +1,13 @@
+---
+title: Partners
+author: ''
+date: "2020-06-25"
+slug: situation-report
+categories: []
+tags: []
+description: ''
+topics: []
+sidemenu: "true"
+---
+
+# List of collaborating partners

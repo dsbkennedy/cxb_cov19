@@ -1,6 +1,7 @@
 ---
 title: "Situation Reports"
 output: html_document
+sidemenu: "true"
 ---
 
 ### Situation reports for Bangladesh 
