@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://cxb-cov19.netlify.app/"
 languageCode = "en-us"
 title = "Cox's Bazar COVID-19 Response"
 theme = "blackburn"
@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   # Shown in the home page
   subtitle = ""
-  brand = "Blackburn"
+  brand = "WHO CXB"
   googleAnalytics = "D"
   disqus = ""
   # CSS name for highlight.js
