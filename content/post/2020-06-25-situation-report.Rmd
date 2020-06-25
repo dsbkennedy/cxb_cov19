@@ -1,7 +1,6 @@
 ---
 title: Situation Report
 author: ''
-date: '2020-06-25'
 slug: situation-report
 categories: []
 tags: []

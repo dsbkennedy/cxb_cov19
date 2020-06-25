@@ -1,0 +1,19 @@
+---
+title: Dashboards
+author: ''
+slug: situation-report
+categories: []
+tags: []
+description: ''
+topics: []
+---
+
+
+## Epidemiology 
+
+[CXB COVID-19 Epidemiology Dashboard](https://worldhealthorg.shinyapps.io/cxb_dashboard_v2/)
+
+
+## Healthcare facility capacity
+
+[CXB Healthcare Facility Dashboard](https://worldhealthorg.shinyapps.io/cxb_dru_dashboard/)
