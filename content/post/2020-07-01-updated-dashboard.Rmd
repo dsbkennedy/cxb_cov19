@@ -1,0 +1,10 @@
+---
+title: Updated dashboard
+author: ''
+date: '2020-07-01'
+slug: updated-dashboard
+categories: []
+tags: []
+description: ''
+topics: []
+---

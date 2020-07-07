@@ -1,4 +1,5 @@
 baseurl = "https://cxb-cov19.netlify.app/"
+ publishDir = "docs"
 languageCode = "en-us"
 title = "Cox's Bazar COVID-19 Response"
 theme = "blackburn"
@@ -65,3 +66,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
+
+ # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
+  # they have to be referred from static root. Example
+  [[params.customCSS]]
+ href = "css/page_width.css"
