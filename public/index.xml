@@ -6,28 +6,9 @@
     <description>Recent content on Cox&#39;s Bazar COVID-19 Response</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Updated dashboard</title>
-      <link>/post/updated-dashboard/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/updated-dashboard/</guid>
-      <description> knitr::include_url(&amp;quot;https://dsbkennedy.github.io/cxb_covid19/&amp;quot;, height=&amp;quot;5000px&amp;quot;)</description>
-    </item>
-    
-    <item>
-      <title>Updated dashboard</title>
-      <link>/post/updated-dashboard/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/updated-dashboard/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>About</title>
@@ -49,22 +30,11 @@
     
     <item>
       <title>Dashboards</title>
-      <link>/post/dashboards-launch/</link>
+      <link>/dashboard.utf8/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/dashboards-launch/</guid>
-      <description>DashboardsFor the COVID-19 response, there are several dashboards which can be used to monitor the epidemiology and healthcare facilitiy capacity in Cox’s Bazar.
-Your browser does not support iframes</description>
-    </item>
-    
-    <item>
-      <title>Situation Report</title>
-      <link>/post/situation-report/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/situation-report/</guid>
-      <description>Situation reports for BangladeshWHO Bangladesh
-</description>
+      <guid>/dashboard.utf8/</guid>
+      <description></description>
     </item>
     
     <item>

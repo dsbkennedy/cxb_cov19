@@ -6,7 +6,7 @@ title: Dashboards
 ---
 
 
-<iframe width='1500px' height='1500px' src='https://dsbkennedy.github.io/cxb_covid19' >
+<iframe width='1750px' height='1500px' src='https://dsbkennedy.github.io/cxb_covid19' >
   <p>Your browser does not support iframes</p>
 </iframe>
 
